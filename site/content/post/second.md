@@ -1,8 +1,9 @@
 ---
-date: 2016-09-09T10:24:16-04:00
-title: Second Post
+date: 2016-01-27T15:25:16-04:00
+title: Het vervolg
 ---
 
 
-Tristique integer nulla, velit orci elementum posuere odit urna amet, vel est amet etiam pharetra curabitur. Risus feugiat pharetra sit dui tempor sed, malesuada metus, ut sociis elementum, placerat dolor curabitur velit. Fermentum nulla, lacus volutpat, et neque suscipit vel nisl at, suspendisse sed consectetuer in. Donec ut tellus massa, ipsum placerat tincidunt, nam nunc amet sit aenean, eleifend porttitor non fermentum. Wisi ultricies ante nec ac dignissim, in neque suscipit eu blandit et, quis imperdiet. Nulla massa velit turpis condimentum, sed vel leo magna dolor at vivamus, lorem metus odio euismod. Libero non leo. Vestibulum lacus iaculis rutrum sagittis ac, a purus, egestas turpis nulla posuere ut sed lacinia, tellus suspendisse massa et nostra. Nascetur hac, ipsum cum, sem eros, tellus suspendisse non. Netus pretium. Auctor integer ut quis urna vestibulum quis, vivamus ligula dictum vel, et amet auctor donec interdum sagittis, fusce mollis sociosqu sem aptent nullam, eu enim hymenaeos et. Ridiculus fusce interdum, vitae volutpat pulvinar mauris netus.
-
+Een van de grote voordelen van Github zou zijn dat je de veranderingen kan bijhouden en dat je - op voorwaarde dat je de juiste software gebruikt - ook zonder enige problemen de veranderingen die je aanbracht in je teksten automatisch publiceert.
+Dat veronderstelt dus dat er een link bestaat tussen de site en de data, maar men moet daarbij bedenken dat alle data van deze site inderdaad op Github staan dus men kan dit alleen van die plaats halen.
+Verder is er een template van Netifly die de blog verzorgt.
