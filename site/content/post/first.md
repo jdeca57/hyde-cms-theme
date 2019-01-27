@@ -1,5 +1,7 @@
 ---
-date: 2016-12-22T20:04:40.407Z
-title: First Post
+date: 2019-01-27T15:18:40.407Z
+title: Eerste keer
 ---
-Tristique integer nulla, velit orci elementum posuere odit urna amet, vel est amet etiam pharetra curabitur. Risus feugiat pharetra sit dui tempor sed, malesuada metus, ut sociis elementum, placerat dolor curabitur velit. Fermentum nulla, lacus volutpat, et neque suscipit vel nisl at, suspendisse sed consectetuer in. Donec ut tellus massa, ipsum placerat tincidunt, nam nunc amet sit aenean, eleifend porttitor non fermentum. Wisi ultricies ante nec ac dignissim, in neque suscipit eu blandit et, quis imperdiet. Nulla massa velit turpis condimentum, sed vel leo magna dolor at vivamus, lorem metus odio euismod. Libero non leo. Vestibulum lacus iaculis rutrum sagittis ac, a purus, egestas turpis nulla posuere ut sed lacinia, tellus suspendisse massa et nostra. Nascetur hac, ipsum cum, sem eros, tellus suspendisse non. Netus pretium. Auctor integer ut quis urna vestibulum quis, vivamus ligula dictum vel, et amet auctor donec interdum sagittis, fusce mollis sociosqu sem aptent nullam, eu enim hymenaeos et. Ridiculus fusce interdum, vitae volutpat pulvinar mauris netus.
+Welkom op mijn blog. Het is even zoeken omdat dit de eerste maal is dat ik Github gebruik en in dit verband is het een zee van mogelijkheden die zich plots aanbiedt. 
+Het zoeken gaat van het aanpassen van een post tot het aanpassen van een stijl tot de gegevens op de blog. Voor zover ik zie kan iedereen dit lezen, en is de toegang beveiligd. Dat is eigenlijk beter dan wat de meeste binnenlandse nieuwssites voorstellen, en dat op een blog van een gebruiker.
+Tot zover is alles dus piekfijn in orde, en in een volgende korte post ga ik verder met de uitleg hoe ik tot hier kwam.
